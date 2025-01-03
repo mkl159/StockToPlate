@@ -54,7 +54,7 @@ python StockToPlate.py
 
 
 
-# --------------------------------------------#
+# #--------------------------------------------#
 # My Telegram Bot (FR/EN) with Grocy and OpenAI
 
 This project contains a Telegram bot written in **Python 3 (v20+)** that offers:
