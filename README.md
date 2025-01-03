@@ -35,10 +35,14 @@ Ce projet contient un bot Telegram écrit en **Python 3 (v20+)** qui offre :
    LANGUAGE = "FR" ou "EN" selon la langue souhaitée.
 
 ## Lancement
-   ```bash
-   python StockToPlate.py
+\```bash
+python StockToPlate.py
+\```
 
 ## Utilisation
-- **Convives : Ajouter, supprimer, modifier un convive.
-- **Recherche Grocy : Tapez un mot (ex: "sucre") ou un code-barres (ex: "1234567890123").
-- **Générer Recette : Choisir le nombre de convives, sélectionner les convives, saisir une note, et recevoir une recette d'OpenAI.
+
+- **Convives** : Ajouter, supprimer, modifier un convive.
+- **Recherche Grocy** : Tapez un mot (ex: "sucre") ou un code-barres (ex: "1234567890123").
+- **Générer Recette** : Choisir le nombre de convives, sélectionner les convives, saisir une note, et recevoir une recette d'OpenAI.
+
+
