@@ -1,4 +1,4 @@
-# Mon Bot Telegram (FR/EN/ES) avec Grocy et OpenAI
+# Bot Telegram (FR/EN/ES) avec Grocy et OpenAI
 
 Ce projet contient un bot Telegram écrit en **Python 3 (v20+)** qui offre :
 - Une gestion de convives (CSV).
